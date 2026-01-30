@@ -1,14 +1,14 @@
-# 🗺️ MailManagement (Graduation Project)
+# 📨 MailManagement (Graduation Project)
 
 ---
 
-## 📋 Proje Hakkında
+## 📋 About the Project
 
 Mail Management is a modern web-based email management platform that allows users to manage multiple Gmail and Outlook accounts from a single dashboard. The project aims to improve productivity by simplifying email workflows while ensuring high security through encryption, authentication mechanisms, and AI-powered features such as automatic replies and translation.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Used Technologies
 
 ### Backend
 
